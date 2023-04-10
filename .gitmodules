@@ -1,0 +1,3 @@
+[submodule "submodule/manage-auth"]
+	path = submodule/manage-auth
+	url = https://github.com/Kumawatlalit912/manage-auth.git
